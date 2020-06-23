@@ -5,8 +5,8 @@ Images are dragged and dropped, sent to the django backend, which returns the
 classification label.
 
 ### Front
-![](https://github.com/kupchoy/React-Image-Classifier/blob/master/static/images/img_classifier_dark.PNG "home page")
+![](https://github.com/kupchoy/React-Image-Classifier/blob/master/img_classifier_dark.PNG "home page")
 
 ### Back
-![](https://github.com/kupchoy/React-Image-Classifier/blob/master/static/images/django-img-classifier.PNG "back end")
+![](https://github.com/kupchoy/React-Image-Classifier/blob/master/django-img-classifier.PNG "back end")
 
